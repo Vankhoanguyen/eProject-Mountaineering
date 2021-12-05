@@ -24,5 +24,17 @@
     border-left: thin dotted gray;
 }
 body{
-  font-size: 15px;
+  font-size: 18px;
 }
+
+h1{
+  font-family: 'Shojumaru', cursive;
+  text-align: center;
+}
+
+
+h2{
+  font-weight: bold;
+  font-family: 'Bebas Neue', cursive;
+  }
+  
