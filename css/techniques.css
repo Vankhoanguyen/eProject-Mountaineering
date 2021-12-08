@@ -23,9 +23,15 @@
     border-right: thin dotted gray;
     border-left: thin dotted gray;
 }
+
 body{
-  font-size: 15px;
+  font-size: 18px;
 }
+
+p,li{
+  font-family: 'Amiri', serif;
+}
+
 h3{
   font-weight: bold;
 }

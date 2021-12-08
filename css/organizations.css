@@ -6,9 +6,15 @@ top:0.1px;
 left:20px;
 }
 h1{
+    font-family: 'Shojumaru', cursive;
     color: red;
     text-align: center;
 }
-p{
+
+body{
     font-size: 18px;
 }
+
+p,li{
+    font-family: 'Amiri', serif;
+  }

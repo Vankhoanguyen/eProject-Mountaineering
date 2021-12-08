@@ -2,6 +2,11 @@ body{
   font-size: 18px;
   text-align: justify;
 }
+
+p,li{
+  font-family: 'Amiri', serif;
+}
+
 .containerimg {
     position: relative;
     width: 100%;

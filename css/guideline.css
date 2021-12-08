@@ -30,22 +30,24 @@ small{
   color: rgb(184, 177, 165);
 }
 h1{
+  font-family: 'Shojumaru', cursive;
   text-align: center;
   color: orange;
   font-weight: bold;
 }
+
 b{
   color: orange;
 }
-a:hover{
-  text-decoration: none;
-  font-weight: bold;
-  color:blue
-}
+
 body{
-  font-size: 15px;
+  font-size: 18px;
 }
 h2{
   color: orange;
   font-weight: bold;
+}
+
+li{
+  font-family: 'Amiri', serif;
 }
