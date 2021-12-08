@@ -15,7 +15,7 @@ function readData() {
         return false;
     }
 
-    a.push("Dubmitted successfully");
+    a.push("Succesfully submitted");
     alert(a.join("\n"));
 }
 //Get the button:
