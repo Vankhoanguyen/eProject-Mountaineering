@@ -50,9 +50,11 @@ input:required {
   }
 
 
-h1{
-  font-weight: bold;
-  font-family: 'Bebas Neue', cursive;
+  h1{
+    font-family: 'Shojumaru', cursive;
+    text-align: center;
+    color: orange;
+    font-weight: bold;
   }
 
   p,li{

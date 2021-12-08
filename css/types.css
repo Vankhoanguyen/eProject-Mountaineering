@@ -41,7 +41,10 @@ li{
 .hai{
    font-weight: bold;
  }
+ 
  h1{
   font-family: 'Shojumaru', cursive;
   text-align: center;
+  color: orange;
+  font-weight: bold;
 }
