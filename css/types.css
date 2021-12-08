@@ -24,5 +24,19 @@
     border-left: thin dotted gray;
 }
 body{
-  font-size: 15px;
+  font-size: 18px;
+} 
+h1{
+  font-family:Arial, Helvetica, sans-serif;
+  color: red;
+  text-shadow: 1px 1px 2px rgb(7, 6, 5);
+  text-align: center;
 }
+.mot{
+  font-size: 22px;
+  color: darkred;
+  font-weight: bold;
+}
+.hai{
+   font-weight: bold;
+ }
