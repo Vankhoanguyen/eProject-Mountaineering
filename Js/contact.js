@@ -17,6 +17,7 @@ function readData() {
 
     a.push("Succesfully submitted");
     alert(a.join("\n"));
+    
 }
 //Get the button:
 mybutton = document.getElementById("myBtn");
